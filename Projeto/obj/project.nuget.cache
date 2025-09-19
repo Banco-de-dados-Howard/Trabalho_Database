@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qBLoBm01IS2sp/MmRC4iJzb/1aRFb1xiiSb66VK/YLvlIN+Ya2jCGV/CRilANwXZmDjWRttyuqxYpZVPz8GbrQ==",
+  "success": true,
+  "projectFilePath": "/home/labdatabase/teste/teste.csproj",
+  "expectedPackageFiles": [
+    "/home/labdatabase/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.2/microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "/home/labdatabase/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.2/microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "/home/labdatabase/.nuget/packages/npgsql/9.0.3/npgsql.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
